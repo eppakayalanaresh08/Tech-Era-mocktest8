@@ -1,0 +1,57 @@
+.container-api-card {
+  display: flex;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container-Details {
+  display: flex;
+  background-color: #ffffff;
+  height: 60vh;
+  justify-content: center;
+  width: 70%;
+}
+
+.image-Course {
+  width: 400px;
+}
+
+.heading-container {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: 10px;
+}
+
+.name-Element {
+  font-family: 'Roboto';
+}
+
+.description {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #64748b;
+  line-height: 40px;
+}
+.failure-view {
+  width: 400px;
+}
+
+.container-failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.retry-button {
+  background-color: #4656a1;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  color: #ffffff;
+}
